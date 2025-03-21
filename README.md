@@ -17,19 +17,19 @@ A **React.js** based Stopwatch web application that allows users to track time i
 ## Installation
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/stopwatch-app.git
+ git clone git@github.com:BurhanAhmad0/PRODIGY_WD_02.git
 ```
 2. Navigate into the project directory:
 ```bash
- cd stopwatch-app
+ cd PRODIGY_WD_02
 ```
 3. Install the dependencies:
 ```bash
- npm install
+ yarn install
 ```
 4. Start the development server:
 ```bash
- npm start
+ yarn dev
 ```
 
 ## Future Enhancements
